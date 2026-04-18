@@ -3,3 +3,5 @@ scoreboard objectives remove macro_hp_1t_bf
 scoreboard objectives remove macro_hp_prs
 scoreboard objectives remove shownum 
 
+scoreboard objectives remove math
+scoreboard objectives remove RGBA
